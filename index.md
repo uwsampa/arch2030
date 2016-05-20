@@ -20,9 +20,31 @@ A key theme of these reports was the observation that Dennard Scaling is no long
 The goal of this first Architecture 2030 Workshop is to kick off a new round of visioning activities in a public forum, on where our constituents believe the field is headed, what challenges and opportunities exist, and how we can continue to communicate our impact beyond our discipline. The workshop will be mostly discussion based, with breakout sessions and report-outs. I will also include two keynotes, one on devices and one on applications. Please participate by filling out our [survey](http://goo.gl/forms/2Fc6beZyIR), which will be used to guide our activities. The workshop will be on Sunday, June 19th.
 
 
+**(Tentative) Agenda for Sunday, June 19 **
+
+
+June 19 ||
+-|-|
+8:30-9:00 | Intro remarks by Luis Ceze and Tom Wenisch |
+9:00-9:15 | Mark Hill (Wisconsin) on 21st Century Computer Architecture| 
+9:15-9:30 | Tom Conte (GeorgiaTech) on IEEE Rebooting Computing
+9:30-10:30 | Phillip Wong (Stanford)
+10:30-11:00 | *Break*
+11:00-11:20 | Steve Keckler (nVidia/UT Austin)
+11:20-11:40 | Alvy Lebeck (Duke)
+11:40-12:00 | Yuan Xie (UCSB)
+12:00-12:20 | TBD
+12:30-2:00 | *Lunch*
+2:00-3:00 | Kayvon Fatahalian (CMU)
+3:00-3:30 | Breakout session kick off
+3:30-4:00 | *Coffee Break*
+4:00-5:00 | Break-out session
+5:00-5:30 | Report-out/discussion
+
 **Organizers**
 
 * [Luis Ceze](https://homes.cs.washington.edu/~luisceze/)
 * [Thomas Wenisch](http://web.eecs.umich.edu/~twenisch/)
+* [Mark Hill](http://pages.cs.wisc.edu/~markhill/) (Advisor and CCC Liaison)
 
 This workshop is supported by the CCC. 
