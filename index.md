@@ -53,7 +53,8 @@ This workshop is supported by the CCC.
 
 ### *21st Century Computer Architecture*
 
-Mark D. Hill
+Mark D. Hill\\
+University of Wisconsin
  
 This talk will briefly review the content, process, and influence of the 2012 [CCC](http://cra.org/ccc/) [white paper](http://cra.org/ccc/docs/init/21stcenturyarchitecturewhitepaper.pdf) that Mark Hill led together with Sarita Adve, Luis Ceze, Mary Jane Irwin, David Kaeli (IEEE TCCA), Margaret Martonosi, Josep Torrellas, Thomas Wenisch,  David Wood (ACM SIGARCH), & Katherine Yelick.
  
@@ -69,6 +70,13 @@ The key elements of a scalable, fast, and energy-efficient computation platform 
 
 In this talk, I will give an overview of nanoscale memory and logic technologies for implementing N3XT. I will give examples of nanosystems that have been built using these technologies, and provide projections on their eventual performance.
 
+
+### *IEEE Rebooting Computing Initiative & International Roadmap of Devices and Systems*
+
+Tom Conte\\
+GeorgiaTech
+
+In 2012, IEEE formed a cross-societal initiative, the IEEE Rebooting Computing Initiative (RCI), and tasked it with fundamentally rethinking computing from devices and circuits up through architectures, languages and algorithms: .  RCI has held 4 invitation-only summits of thought leaders that have influenced US policy decisions.  Starting in 2014, RCI joined forces with the International Technology Roadmap of Semiconductors (also known as "the Semiconductor Roadmap").  In 2016,  ITRS moved to IEEE and became the IEEE International Roadmap of Devices and Systems (IRDS).  The goal of the IRDS is to roadmap future computing and drive its requirements down to devices to guide the semiconductor industry.  I will summarize both the IEEE RCI summits and the IRDS structure and goals.
 
 
 
