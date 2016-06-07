@@ -20,31 +20,55 @@ A key theme of these reports was the observation that Dennard Scaling is no long
 The goal of this first Architecture 2030 Workshop is to kick off a new round of visioning activities in a public forum, on where our constituents believe the field is headed, what challenges and opportunities exist, and how we can continue to communicate our impact beyond our discipline. The workshop will be mostly discussion based, with breakout sessions and report-outs. I will also include two keynotes, one on devices and one on applications. Please participate by filling out our [survey](http://goo.gl/forms/2Fc6beZyIR), which will be used to guide our activities. The workshop will be on Sunday, June 19th.
 
 
-**(Tentative) Agenda for Sunday, June 19 **
+## **Agenda for Sunday, June 19**
 
 
-June 19 ||
--|-|
-8:30-9:00 | Intro remarks by Luis Ceze and Tom Wenisch |
-9:00-9:15 | Mark Hill (Wisconsin) on 21st Century Computer Architecture| 
-9:15-9:30 | Tom Conte (GeorgiaTech) on IEEE Rebooting Computing
-9:30-10:30 | Phillip Wong (Stanford)
-10:30-11:00 | *Break*
-11:00-11:20 | Steve Keckler (nVidia/UT Austin)
-11:20-11:40 | Alvy Lebeck (Duke)
-11:40-12:00 | Yuan Xie (UCSB)
-12:00-12:20 | TBD
-12:30-2:00 | *Lunch*
-2:00-3:00 | Kayvon Fatahalian (CMU)
-3:00-3:30 | Breakout session kick off
-3:30-4:00 | *Coffee Break*
-4:00-5:00 | Break-out session
-5:00-5:30 | Report-out/discussion
+| Time | Event|
+| :------| :-----------|
+| 8:30 | Intro remarks by Luis Ceze and Tom Wenisch |
+| 9:10 | [Mark Hill](http://pages.cs.wisc.edu/~markhill/) (Wisconsin) on 21st Century Computer Architecture |
+| 9:30 | *Devices Keynote:* [Philip Wong](http://web.stanford.edu/~hspwong/) (Stanford) on "Device Technologies for the N3XT 1,000X Improvement in Computing Performance" |
+| 10:30 | *Break* |
+| 11:00 | [Tom Conte](http://www.conte.us) (GeorgiaTech) on IEEE Rebooting Computing Initiative & International Roadmap of Devices and Systems |
+| 11:20 | [Steve Keckler](http://www.cs.utexas.edu/~skeckler/) (nVidia/UT Austin) on “The Influence of Academic Research on Industry R&D” |
+| 11:45 | [Alvy Lebeck](https://users.cs.duke.edu/~alvy/) (Duke) on “Computing and Biomolecules” |
+| 12:05 | [Yuan Xie](http://www.ece.ucsb.edu/~yuanxie/) (UCSB) on "Technology-driven Architecture Innovation: Challenges and Opportunities" |
+| 12:30 | *Lunch* |
+| 2:00 | *Applications Keynote:* [Kayvon Fatahalian](https://www.cs.cmu.edu/~kayvonf/) (CMU) on "100 Quadrillion Live Pixels: The Challenge of Continuously Interpreting, Organizing, and Generating the World's Visual Information"  |
+| 3:00 | Breakout session kick off |
+| 3:30 | *Coffee Break* |
+| 4:00 | Break-out session |
+| 5:00 | Report-out/discussion |
+| 5:30 | Wrap-up |
 
-**Organizers**
+## **Organizers**
 
 * [Luis Ceze](https://homes.cs.washington.edu/~luisceze/)
 * [Thomas Wenisch](http://web.eecs.umich.edu/~twenisch/)
 * [Mark Hill](http://pages.cs.wisc.edu/~markhill/) (Advisor and CCC Liaison)
 
 This workshop is supported by the CCC. 
+
+## Talk abstracts
+
+### *21st Century Computer Architecture*
+
+Mark D. Hill
+ 
+This talk will briefly review the content, process, and influence of the 2012 [CCC](http://cra.org/ccc/) [white paper](http://cra.org/ccc/docs/init/21stcenturyarchitecturewhitepaper.pdf) that Mark Hill led together with Sarita Adve, Luis Ceze, Mary Jane Irwin, David Kaeli (IEEE TCCA), Margaret Martonosi, Josep Torrellas, Thomas Wenisch,  David Wood (ACM SIGARCH), & Katherine Yelick.
+ 
+
+### *Device Technologies for the N3XT 1,000X Improvement in Computing Performance*
+
+H.-S. Philip Wong, Department of Electrical Engineering and Stanford SystemX Alliance\\
+Stanford University
+	
+21st century information technology (IT) must process, understand, classify, and organize the vast amount of data in real-time. 21st century applications will be dominated by memory-centric computing operating on Tbytes of active data with little data locality. At the same time, massively redundant sensor arrays sampling the world around us will give humans the perception of additional “senses” blurring the boundary between biological, physical, and cyber worlds. Abundant-data processing, which comprises real-time big-data analytics and the processing of perceptual data in wearable devices, clearly demands computation efficiencies well beyond what can be achieved through business as usual.
+
+The key elements of a scalable, fast, and energy-efficient computation platform that may provide another 1,000× in computing performance (energy-execution time product) for future computing workloads are: massive on-chip memory co-located with highly energy-efficient computation, enabled by monolithic 3D integration using ultra-dense and fine-grained massive connectivity. There will be multiple layers of analog and digital memories interleaved with computing logic, sensors, and application-specific devices.  We call this technology platform N3XT – Nanoengineered Computing Systems Technology. N3XT will support computing architectures that embrace sparsity, stochasticity, and device variability.
+
+In this talk, I will give an overview of nanoscale memory and logic technologies for implementing N3XT. I will give examples of nanosystems that have been built using these technologies, and provide projections on their eventual performance.
+
+
+
+
