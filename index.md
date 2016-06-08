@@ -26,12 +26,13 @@ The goal of this first Architecture 2030 Workshop is to kick off a new round of 
 | Time | Event|
 | :------| :-----------|
 | 8:30 | Intro remarks by Luis Ceze and Tom Wenisch |
-| 9:10 | [Mark Hill](http://pages.cs.wisc.edu/~markhill/) (Wisconsin) on "21st Century Computer Architecture" |
+| 8:50 | [Mark Hill](http://pages.cs.wisc.edu/~markhill/) (Wisconsin) on "21st Century Computer Architecture" |
+| 9:10 | [Tom Conte](http://www.conte.us) (GeorgiaTech) on "IEEE Rebooting Computing Initiative & International Roadmap of Devices and Systems" |
 | 9:30 | *Devices Keynote:* [Philip Wong](http://web.stanford.edu/~hspwong/) (Stanford) on "Device Technologies for the N3XT 1,000X Improvement in Computing Performance" |
 | 10:30 | *Break* |
-| 11:00 | [Tom Conte](http://www.conte.us) (GeorgiaTech) on "IEEE Rebooting Computing Initiative & International Roadmap of Devices and Systems" |
-| 11:20 | [Steve Keckler](http://www.cs.utexas.edu/~skeckler/) (nVidia/UT Austin) on “The Influence of Academic Research on Industry R&D” |
-| 11:45 | [Alvy Lebeck](https://users.cs.duke.edu/~alvy/) (Duke) on “Computing and Biomolecules” |
+| 11:00 | [Steve Keckler](http://www.cs.utexas.edu/~skeckler/) (nVidia/UT Austin) on “The Influence of Academic Research on Industry R&D” |
+| 11:25 | [Michael Taylor](http://cseweb.ucsd.edu/~mbtaylor/) (UCSD) on "Open Source HW: Architecture's Only Hope for Survival"
+| 11:40 | [Alvy Lebeck](https://users.cs.duke.edu/~alvy/) (Duke) on “Computing and Biomolecules” |
 | 12:05 | [Yuan Xie](http://www.ece.ucsb.edu/~yuanxie/) (UCSB) on "Technology-driven Architecture Innovation: Challenges and Opportunities" |
 | 12:30 | *Lunch* |
 | 2:00 | *Applications Keynote:* [Kayvon Fatahalian](https://www.cs.cmu.edu/~kayvonf/) (CMU) on "100 Quadrillion Live Pixels: The Challenge of Continuously Interpreting, Organizing, and Generating the World's Visual Information"  |
@@ -46,6 +47,8 @@ The goal of this first Architecture 2030 Workshop is to kick off a new round of 
 * [Luis Ceze](https://homes.cs.washington.edu/~luisceze/)
 * [Thomas Wenisch](http://web.eecs.umich.edu/~twenisch/)
 * [Mark Hill](http://pages.cs.wisc.edu/~markhill/) (Advisor and CCC Liaison)
+
+* Aasheesh Kolli (UMich), Neha Agarwal (UMich), Amrita Mazumdar (UWash) (Student scribes)
 
 This workshop is supported by the CCC. 
 
