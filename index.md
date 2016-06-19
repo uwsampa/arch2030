@@ -10,7 +10,7 @@ title: Architecture 2030 Workshop @ ISCA 2016
 
 <!-- Please participate by filling out our [survey](http://goo.gl/forms/2Fc6beZyIR) by April 30! -->
 
-**We have a [livestream](http://youtu.be/VXx0cK3wOKc) of the workshop!**
+**Update: We have a [livestream](http://youtu.be/VXx0cK3wOKc) of the workshop!**
 
 Over the course of 2010-2012, the computer architecture research community, with the support of the Computer Research Association’s (CRA) Computing Community Consortium (CCC), carried out a series of visioning exercises to articulate how architectural innovation will continue to impact computing systems and society at large, identify new challenges and opportunities for architecture research, and provide guidance to funding agencies on critical priorities within our discipline and how architecture innovation can further other agency objectives.  These visioning activities lead to several highly influential reports, including the National Academy report  [The Future of Computing Performance: Game Over or Next Level? (2011)](http://www.nap.edu/catalog/12980/the-future-of-computing-performance-game-over-or-next-level) and the CCC community whitepaper [21st Century Computer Architecture (2012)](http://cra.org/ccc/docs/init/21stcenturyarchitecturewhitepaper.pdf).  These community-driven efforts contributed to the establishment of funding programs and new major research efforts. 
 
@@ -27,7 +27,7 @@ The goal of this first Architecture 2030 Workshop is to kick off a new round of 
 
 | Time | Event|
 | :------| :-----------|
-| 8:30 | Intro remarks by Luis Ceze and Tom Wenisch |
+| 8:30 | Intro remarks by Luis Ceze and Tom Wenisch <br> (See also: [topic modeling analysis of computer architecture research](http://homes.cs.washington.edu/~vlee2/docs/UW-CSE-16-05-01.pdf) )|
 | 8:50 | [Mark Hill](http://pages.cs.wisc.edu/~markhill/) (Wisconsin) on "21st Century Computer Architecture" |
 | 9:10 | [Tom Conte](http://www.conte.us) (GeorgiaTech) on "IEEE Rebooting Computing Initiative & International Roadmap of Devices and Systems" |
 | 9:30 | *Devices Keynote:* [Philip Wong](http://web.stanford.edu/~hspwong/) (Stanford) on "Device Technologies for the N3XT 1,000X Improvement in Computing Performance" |
