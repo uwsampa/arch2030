@@ -9,11 +9,7 @@ title: Architecture 2030 Workshop @ ISCA 2016
 
 
 <!-- Please participate by filling out our [survey](http://goo.gl/forms/2Fc6beZyIR) by April 30! -->
-
-**Video recordings:** You can watch the livestreamed video feeds here.
-
-+ [Morning session](http://youtu.be/VXx0cK3wOKc)
-+ [Afternoon session](http://youtu.be/XS7kuod1vSQ)
+**Video recordings:** Watch the video recordings [here](https://www.youtube.com/channel/UCewTnrrJ1bu_Yd6bK029yww).
 
 ## About the Workshop
 
@@ -32,13 +28,13 @@ The goal of this first Architecture 2030 Workshop is to kick off a new round of 
 
 | Time | Event|
 | :------| :-----------|
-| 8:30 | Intro remarks by Luis Ceze and Tom Wenisch <br> (See also: [topic modeling analysis of computer architecture research](http://homes.cs.washington.edu/~vlee2/docs/UW-CSE-16-05-01.pdf) )|
-| 8:50 | [Mark Hill](http://pages.cs.wisc.edu/~markhill/) (Wisconsin) on "21st Century Computer Architecture" |
-| 9:10 | [Tom Conte](http://www.conte.us) (GeorgiaTech) on "IEEE Rebooting Computing Initiative & International Roadmap of Devices and Systems" |
+| 8:30 | Intro remarks by Luis Ceze and Tom Wenisch ([slides](./slides/arch2030_intro.pdf)) <br>  (See also: [topic modeling analysis of computer architecture research](http://homes.cs.washington.edu/~vlee2/docs/UW-CSE-16-05-01.pdf)|
+| 8:50 | [Mark Hill](http://pages.cs.wisc.edu/~markhill/) (Wisconsin) on "21st Century Computer Architecture" ([slides](./slides/arch2030_mark_hill.pdf)) |
+| 9:10 | [Tom Conte](http://www.conte.us) (GeorgiaTech) on "IEEE Rebooting Computing Initiative & International Roadmap of Devices and Systems" ([slides](./slides/arch2030_tom_conte.pdf)) |
 | 9:30 | *Devices Keynote:* [Philip Wong](http://web.stanford.edu/~hspwong/) (Stanford) on "Device Technologies for the N3XT 1,000X Improvement in Computing Performance" |
 | 10:30 | *Break* |
 | 11:00 | [Steve Keckler](http://www.cs.utexas.edu/~skeckler/) (nVidia/UT Austin) on “The Influence of Academic Research on Industry R&D” |
-| 11:25 | [Michael Taylor](http://cseweb.ucsd.edu/~mbtaylor/) (UCSD) on "Open Source HW: Architecture's Only Hope for Survival"
+| 11:25 | [Michael Taylor](http://cseweb.ucsd.edu/~mbtaylor/) (UCSD) on "Open Source HW: Architecture's Only Hope for Survival" ([slides](./slides/arch2030_michael_taylor.pdf)) |
 | 11:45 | [Alvy Lebeck](https://users.cs.duke.edu/~alvy/) (Duke) on “Computing and Biomolecules” |
 | 12:05 | [Yuan Xie](http://www.ece.ucsb.edu/~yuanxie/) (UCSB) on "Technology-driven Architecture Innovation: Challenges and Opportunities" |
 | 12:30 | *Lunch* |
@@ -46,7 +42,7 @@ The goal of this first Architecture 2030 Workshop is to kick off a new round of 
 | 3:00 | Breakout session kick off |
 | 3:30 | *Coffee Break* |
 | 4:00 | Break-out session |
-| 5:00 | Report-out/discussion |
+| 5:00 | Report-out/discussion ([slides](./slides/arch2030_breakout.pdf)) ([video](https://www.youtube.com/watch?v=ReYtZ3X4t_A)) |
 | 5:30 | Wrap-up |
 
 ## **Organizers**
@@ -54,7 +50,6 @@ The goal of this first Architecture 2030 Workshop is to kick off a new round of 
 * [Luis Ceze](https://homes.cs.washington.edu/~luisceze/)
 * [Thomas Wenisch](http://web.eecs.umich.edu/~twenisch/)
 * [Mark Hill](http://pages.cs.wisc.edu/~markhill/) (Advisor and CCC Liaison)
-
 * Aasheesh Kolli (UMich), Neha Agarwal (UMich), Amrita Mazumdar (UWash) (Student scribes)
 
 This workshop is supported by the CCC. 

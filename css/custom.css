@@ -72,6 +72,7 @@ h4 {
 
 table td, table th {
     padding: 0 0.2em;
+    vertical-align: top;
 }
 
 p.authors {
