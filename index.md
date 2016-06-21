@@ -35,7 +35,7 @@ The goal of this first Architecture 2030 Workshop is to kick off a new round of 
 | 10:30 | *Break* |
 | 11:00 | [Steve Keckler](http://www.cs.utexas.edu/~skeckler/) (nVidia/UT Austin) on “The Influence of Academic Research on Industry R&D” |
 | 11:25 | [Michael Taylor](http://cseweb.ucsd.edu/~mbtaylor/) (UCSD) on "Open Source HW: Architecture's Only Hope for Survival" ([slides](./slides/arch2030_michael_taylor.pdf)) |
-| 11:45 | [Alvy Lebeck](https://users.cs.duke.edu/~alvy/) (Duke) on “Computing and Biomolecules” |
+| 11:45 | [Alvy Lebeck](https://users.cs.duke.edu/~alvy/) (Duke) on “Computing and Biomolecules” ([slides](./slides/arch2030_lebeck.pdf)) |
 | 12:05 | [Yuan Xie](http://www.ece.ucsb.edu/~yuanxie/) (UCSB) on "Technology-driven Architecture Innovation: Challenges and Opportunities" |
 | 12:30 | *Lunch* |
 | 2:00 | *Applications Keynote:* [Kayvon Fatahalian](https://www.cs.cmu.edu/~kayvonf/) (CMU) on "100 Quadrillion Live Pixels: The Challenge of Continuously Interpreting, Organizing, and Generating the World's Visual Information"  |
