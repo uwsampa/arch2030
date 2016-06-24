@@ -31,9 +31,9 @@ The goal of this first Architecture 2030 Workshop is to kick off a new round of 
 | 8:30 | Intro remarks by Luis Ceze and Tom Wenisch ([slides](./slides/arch2030_intro.pdf)) <br>  (See also: [topic modeling analysis of computer architecture research](http://homes.cs.washington.edu/~vlee2/docs/UW-CSE-16-05-01.pdf)|
 | 8:50 | [Mark Hill](http://pages.cs.wisc.edu/~markhill/) (Wisconsin) on "21st Century Computer Architecture" ([slides](./slides/arch2030_mark_hill.pdf)) |
 | 9:10 | [Tom Conte](http://www.conte.us) (GeorgiaTech) on "IEEE Rebooting Computing Initiative & International Roadmap of Devices and Systems" ([slides](./slides/arch2030_tom_conte.pdf)) |
-| 9:30 | *Devices Keynote:* [Philip Wong](http://web.stanford.edu/~hspwong/) (Stanford) on "Device Technologies for the N3XT 1,000X Improvement in Computing Performance" |
+| 9:30 | *Devices Keynote:* [Philip Wong](http://web.stanford.edu/~hspwong/) (Stanford) on "Device Technologies for the N3XT 1,000X Improvement in Computing Performance" ([slides](./slides/arch2030_wong.pdf))|
 | 10:30 | *Break* |
-| 11:00 | [Steve Keckler](http://www.cs.utexas.edu/~skeckler/) (nVidia/UT Austin) on “The Influence of Academic Research on Industry R&D” |
+| 11:00 | [Steve Keckler](http://www.cs.utexas.edu/~skeckler/) (nVidia/UT Austin) on “The Influence of Academic Research on Industry R&D” ([slides](./slides/arch2030_keckler.pdf))|
 | 11:25 | [Michael Taylor](http://cseweb.ucsd.edu/~mbtaylor/) (UCSD) on "Open Source HW: Architecture's Only Hope for Survival" ([slides](./slides/arch2030_michael_taylor.pdf)) |
 | 11:45 | [Alvy Lebeck](https://users.cs.duke.edu/~alvy/) (Duke) on “Computing and Biomolecules” ([slides](./slides/arch2030_lebeck.pdf)) |
 | 12:05 | [Yuan Xie](http://www.ece.ucsb.edu/~yuanxie/) (UCSB) on "Technology-driven Architecture Innovation: Challenges and Opportunities" |
