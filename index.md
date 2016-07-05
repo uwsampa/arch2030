@@ -38,7 +38,7 @@ The goal of this first Architecture 2030 Workshop is to kick off a new round of 
 | 11:45 | [Alvy Lebeck](https://users.cs.duke.edu/~alvy/) (Duke) on “Computing and Biomolecules” ([slides](./slides/arch2030_lebeck.pdf)) |
 | 12:05 | [Yuan Xie](http://www.ece.ucsb.edu/~yuanxie/) (UCSB) on "Technology-driven Architecture Innovation: Challenges and Opportunities" ([slides](./slides/arch2030_xie.pdf))|
 | 12:30 | *Lunch* |
-| 2:00 | *Applications Keynote:* [Kayvon Fatahalian](https://www.cs.cmu.edu/~kayvonf/) (CMU) on "100 Quadrillion Live Pixels: The Challenge of Continuously Interpreting, Organizing, and Generating the World's Visual Information"  |
+| 2:00 | *Applications Keynote:* [Kayvon Fatahalian](https://www.cs.cmu.edu/~kayvonf/) (CMU) on "100 Quadrillion Live Pixels: The Challenge of Continuously Interpreting, Organizing, and Generating the World's Visual Information" ([slides](./slides/arch2030_kayvonf.pdf)) |
 | 3:00 | Breakout session kick off |
 | 3:30 | *Coffee Break* |
 | 4:00 | Break-out session |
