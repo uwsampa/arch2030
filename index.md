@@ -28,7 +28,7 @@ The goal of this first Architecture 2030 Workshop is to kick off a new round of 
 
 | Time | Event|
 | :------| :-----------|
-| 8:30 | Intro remarks by Luis Ceze and Tom Wenisch ([slides](./slides/arch2030_intro.pdf)) <br>  (See also: [topic modeling analysis of computer architecture research](http://homes.cs.washington.edu/~vlee2/docs/UW-CSE-16-05-01.pdf)|
+| 8:30 | Intro remarks by Luis Ceze and Tom Wenisch ([slides](./slides/arch2030_intro.pdf)) <br>  (See also: [topic modeling analysis of computer architecture research](http://homes.cs.washington.edu/~vlee2/docs/UW-CSE-16-05-01.pdf)) |
 | 8:50 | [Mark Hill](http://pages.cs.wisc.edu/~markhill/) (Wisconsin) on "21st Century Computer Architecture" ([slides](./slides/arch2030_mark_hill.pdf)) |
 | 9:10 | [Tom Conte](http://www.conte.us) (GeorgiaTech) on "IEEE Rebooting Computing Initiative & International Roadmap of Devices and Systems" ([slides](./slides/arch2030_tom_conte.pdf)) |
 | 9:30 | *Devices Keynote:* [Philip Wong](http://web.stanford.edu/~hspwong/) (Stanford) on "Device Technologies for the N3XT 1,000X Improvement in Computing Performance" ([slides](./slides/arch2030_wong.pdf))|
