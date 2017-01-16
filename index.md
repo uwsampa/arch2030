@@ -9,6 +9,9 @@ title: Architecture 2030 Workshop @ ISCA 2016
 
 
 <!-- Please participate by filling out our [survey](http://goo.gl/forms/2Fc6beZyIR) by April 30! -->
+
+**CCC report out:** Read the final report [here](http://cra.org/ccc/wp-content/uploads/sites/2/2016/12/15447-CCC-ARCH-2030-report-v3-1-1.pdf).
+
 **Video recordings:** Watch the video recordings [here](https://www.youtube.com/channel/UCewTnrrJ1bu_Yd6bK029yww).
 
 ## About the Workshop
